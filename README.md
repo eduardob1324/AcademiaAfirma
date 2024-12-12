@@ -1,3 +1,3 @@
 # AcademiaAfirma
 
-<!--![Diagram Image Link](./diagrama)-->
+<!--![Diagram Image Link](./diagrama.png)-->
