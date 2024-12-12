@@ -1,3 +1,3 @@
 # AcademiaAfirma
 
-<img src="./diagrama.png" alt="Texto alternativo" width="00" />
+<img src="diagrama.png" width="400" />
