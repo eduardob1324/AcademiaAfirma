@@ -7,23 +7,16 @@ abstract class Empleado {
   - horaTrabajadas: double
   - direccion: string
   - telefono: string
-  + obtenerSalario(): double
-}
-
-class EmpleadoTemporal CalculadorSalario {
-  -double 
   + calcularSalario(): double
 }
 
-class CalculadorSalarioPermanente {
-  - salarioFijo: double
+class EmpleadoTemporal extends Empleado{
+  - salario: double 
   + calcularSalario(): double
 }
 
-```plantuml
+class EmpleadoPermanente extends Empleado{
+ - salario: double 
+  + calcularSalario(): double
+}
 
-
-@startuml
-class ArrayList implements List
-class ArrayList extends AbstractList
-@enduml
