@@ -2,9 +2,9 @@
 
 ## Caso:
 > Una empresa necesita un sistema para gestionar sus empleados. Los empleados pueden ser de tipo Permanente o Temporal, y cada tipo tiene un salario que se calcula de manera diferente:
-> 
+
 > Los empleados permanentes tienen un salario fijo mensual.
-> 
+
 > Los empleados temporales tienen un salario por hora trabajada.
 
 
