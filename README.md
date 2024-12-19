@@ -9,7 +9,7 @@
 
 # UML
 ### diagrama de clases 
-<img src="diagrama.png" width="400" />
+<img src="./images/diagrama.png" width="400" />
 
 # SOLID
 ### 1.- Explica cómo el principio de Responsabilidad Única (SRP) aplica al caso anterior
