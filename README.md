@@ -25,7 +25,7 @@
 
 # Patrones de diseño
 ### ¿Cuándo usarías el patrón Strategy? Da un ejemplo práctico.
->
+>Cuando se quieren utilizar grandes bloques de codigo como lo son muchos if-esle o sentencias switch, y pues se podria implementar el patron atrategy en un Icomerse donde se tenga que realizar un pago y se ofrescan multiples formas de pago como lo pueden ser: con targeta, con efectivo, con paypal etc.
 
 ###  ¿Cuál es la diferencia principal entre Factory Method y Visitor? 
 >La principal diferencia es que el patrón Factory Method se utiliza para crear objetos sin especificar la clase concrete del objeto que se va a crear, mientras que el patrón Visitor permite agregar nuevas funcionalidades a una estructura de objetos sin modificar las clases de los objetos sobre los que opera.
