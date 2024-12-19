@@ -25,6 +25,8 @@
 
 # Patrones de diseño
 ### ¿Cuándo usarías el patrón Strategy? Da un ejemplo práctico.
+>
+
 ###  ¿Cuál es la diferencia principal entre Factory Method y Visitor? 
 >La principal diferencia es que el patrón Factory Method se utiliza para crear objetos sin especificar la clase concrete del objeto que se va a crear, mientras que el patrón Visitor permite agregar nuevas funcionalidades a una estructura de objetos sin modificar las clases de los objetos sobre los que opera.
 
