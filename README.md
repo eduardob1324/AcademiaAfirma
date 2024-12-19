@@ -11,6 +11,9 @@
 ### diagrama de clases 
 <img src="./images/diagrama.png" width="400" />
 
+### diagrama de secuencia
+<img src="./images/diagrama2.png" width="400" />
+
 # SOLID
 ### 1.- Explica cómo el principio de Responsabilidad Única (SRP) aplica al caso anterior
 > En el caso anterior, el principio de Responsabilidad Única se aplica de la siguiente manera:
